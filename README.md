@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Sandhu</h1>
-<h3 align="center">Growing developer from India</h3>
+<h3 align="center">Student at KIET Group of Institutions, Ghaziabad<br>Training for GenAI Engineer Roles</h3>
 
-- 🌱 I’m currently learning **Advanced Machine Learning Algorithms, C++ DSA**
+- 🌱 I’m currently learning **Advanced GenAI, Agentic AI, MLOps, C++ DSA**
 
 - 📫 How to reach me **krishsandhu21@gmail.com**
 
